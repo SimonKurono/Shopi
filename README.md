@@ -1,6 +1,6 @@
 # 🛒 Shopi — Smart Reordering with Snap Spectacles
 
-## 💡 Inspiration
+## Inspiration
 
 Repeatedly running out of items and forgetting to reorder?
 Tired of shopping lists and having to go order every single thing you need?
