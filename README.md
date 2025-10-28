@@ -7,7 +7,6 @@ Tired of shopping lists and having to go order every single thing you need?
 
 **Shopi** uses **Snap Spectacles** and real-time **computer vision** to monitor stock levels and automatically reorder items via **voice or gesture**.
 
----
 
 ## ⚙️ What It Does
 
@@ -18,7 +17,6 @@ Tired of shopping lists and having to go order every single thing you need?
 * Uses **AR overlays** and **TTS** for hands-free interaction
 * Instantly prompts the **reorder of items**
 
----
 
 ## 🧠 How We Built It
 
@@ -38,17 +36,14 @@ Tired of shopping lists and having to go order every single thing you need?
 * **Selenium** for Shopify checkout automation
 * **Google Search API** for product discovery and label-matching
 
----
 
 ## 🧩 Challenges We Ran Into
 
 * **Spectacles hand tracking:** fixed by enabling disabled `HandVisual` components in the scene hierarchy
-* **FastUI integration:** resolved `unitPlaneMesh` errors with proper component wiring
 * **Image encoding:** handled large camera frames via base64 JPEG and browser telemetry
 * **Product matching:** refined Gemini prompts to reduce false positives
 * **Selenium automation:** overcame anti-bot defenses using randomized input timing
 
----
 
 ## 🏆 Accomplishments We’re Proud Of
 
@@ -59,7 +54,6 @@ Tired of shopping lists and having to go order every single thing you need?
 * Modular **FastAPI** design enabling future commerce integrations
 * Stable build across **TS/JS (Lens Studio)** and **FastAPI** backends
 
----
 
 ## 📚 What We Learned
 
@@ -70,7 +64,6 @@ Tired of shopping lists and having to go order every single thing you need?
 * Fast iteration wins with **cloud AI**, while model fine-tuning remains niche
 * **Generative AI prompts** must be specific to avoid bias or hallucination
 
----
 
 ## 🚀 What’s Next for Shopi
 
