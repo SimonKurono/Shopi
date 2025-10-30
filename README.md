@@ -5,7 +5,7 @@
 Repeatedly running out of items and forgetting to reorder?
 Tired of shopping lists and having to go order every single thing you need?
 
-**Shopi** uses **Snap Spectacles** and real-time **computer vision** to monitor stock levels and automatically reorder items via **voice or gesture**.
+**Shopi** uses **Snap Spectacles** and real-time **computer vision** to monitor stock levels and automatically reorder items via **voice or gesture** using Snap Spectacles AR.
 
 
 ## ⚙️ What It Does
